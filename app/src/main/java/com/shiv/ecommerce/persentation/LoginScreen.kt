@@ -35,7 +35,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.shiv.ecommerce.R
-import com.shiv.ecommerce.utils.CustomTextField
+import com.shiv.ecommerce.persentation.screens.utils.CustomTextField
 
 @Composable
 fun LoginScreen(){

@@ -1,4 +1,4 @@
-package com.shiv.ecommerce.utils
+package com.shiv.ecommerce.persentation.screens.utils
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
